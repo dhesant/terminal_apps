@@ -1,0 +1,6 @@
+#!/bin/bash
+
+while true; do
+    bash -ic "${@:2}"
+    sleep $1
+done
