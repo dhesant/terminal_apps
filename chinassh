@@ -1,3 +1,0 @@
-#!/bin/bash
-
-ssh -D 8080 -R 2222:localhost:22 donut@158.255.208.98
