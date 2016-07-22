@@ -1,0 +1,6 @@
+[submodule "ResistorCalculator"]
+	path = ResistorCalculator
+	url = https://github.com/mhord/ResistorCalculator.git
+[submodule "handbrake_scripts"]
+	path = handbrake_scripts
+	url = git@github.com:dhesant/handbrake_scripts.git
