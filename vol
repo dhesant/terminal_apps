@@ -7,4 +7,4 @@ fi
 
 vol=$(perl -e "print int(65536 * ($1 / 100))")
 echo "Setting volume to $1 ($vol)"
-pacmd set-sink-volume 1 $vol
+pacmd set-sink-volume @DEFAULT_SINK@ $vol
