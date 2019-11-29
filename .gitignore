@@ -22,3 +22,5 @@ adb-channel
 adb-sync
 set_crashplan_source
 youtube-dl
+arduino-*/
+arduino
